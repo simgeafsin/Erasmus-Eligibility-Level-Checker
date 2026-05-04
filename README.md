@@ -1,7 +1,5 @@
 # Erasmus Eligibility & Level Checker 🇪🇺✈️
 
-This is a decision-making application developed as part of my second day (**May 4th**) in the C# intensive learning marathon. It demonstrates the use of control flow and conditional logic in C#.
-
 ## 📌 Project Overview
 The application simulates an Erasmus application system. It manages user information and directs the user to different modules based on their selection using advanced decision structures.
 
